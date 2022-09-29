@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="lower">Lower</string>
+    <string name="some_text">This is some text</string>
+    <string name="equals">Equals</string>
+    <string name="higher">Higher</string>
+    <string name="score_0">Score: 0</string>
+    <string name="button_clicked">You clicked the button!</string>
+</resources>
